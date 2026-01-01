@@ -34,7 +34,7 @@
                 <div>
                     <h4 class="text-navy text-lg font-bold mb-4">kontak</h4>
                     <div class="space-y-2 justify-left">
-                        <a href="" class="flex items-center text-gray-600 hover:text-navy transition-colors">
+                        <a href="https://wa.me/qr/6GFHEUM5NA6IL1" class="flex items-center text-gray-600 hover:text-navy transition-colors">
                             <i class="fab fa-whatsapp mr-2"></i>WhatsApp
                         </a>
                         <a href="https://www.facebook.com/DII_/" class="flex items-center text-gray-600 hover:text-navy transition-colors">
@@ -50,4 +50,5 @@
                 <small class="text-gray-600-500">&copy; <?php echo date('Y'); ?> SuaraKita. All rights reserved.</small>
             </div>
         </div>
+
     </footer>
